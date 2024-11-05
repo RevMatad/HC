@@ -51,4 +51,4 @@ jobs:
           app-name: 'Doc-rev-App'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B1C19C143184D51B1FF6770BC63B85D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_867D0D20EE8D4FCBADDCBA476559F96F }}
